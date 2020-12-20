@@ -1,0 +1,44 @@
+body{
+    background-color: #F2FFFC;
+    font-family: "Crimson Text", "Times New Roman", serif;
+    font-size: 120%;
+
+}
+
+h1,h2{
+    font-family: "Open Sans Condensed", "Arial", sans-serif;    /* fonte e tipo da fonte */
+}
+
+/* uso da hierarquia no CSS: h1 de dentro do main*/
+main h1{
+    font-size: 60px;
+    background-color: #851944;
+    color: #FFF;
+    text-align: center;
+}
+
+h2{
+    font-size: 40px;
+}
+
+p{
+    text-align: justify;
+}
+
+
+
+
+
+/* 
+h1{
+    background-color: rgb(120,30,60);      cor do fundo do h1 
+    color: #FAFFFA;
+    font-size: 60px;     tamanho da fonte do h1 
+    font-family: "Open Sans", sans-serif;
+    text-align: left;
+}
+
+h2{
+    font-family: "Open Sans", sans-serif;
+    font-size: 40px;
+} */
